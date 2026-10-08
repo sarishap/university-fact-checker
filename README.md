@@ -1,6 +1,6 @@
-# University RAG (Zero-Hallucination Website Q&A)
+# University RAG
 
-A Python-based RAG system that crawls a university website, indexes the content in ChromaDB, and answers questions strictly from the scraped pages with a minimal Streamlit interface.
+A simple Python-based RAG system that crawls a university website, indexes the content in ChromaDB, and answers questions strictly from the scraped pages with a minimal Streamlit interface.
 
 ## How it works
 
